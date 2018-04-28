@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Benz-Truck/!svn/ver/4680/branches/Pump/PumbClient/config
+END
+dev.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Benz-Truck/!svn/ver/4680/branches/Pump/PumbClient/config/dev.env.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Benz-Truck/!svn/ver/4680/branches/Pump/PumbClient/config/index.js
+END
+prod.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Benz-Truck/!svn/ver/4680/branches/Pump/PumbClient/config/prod.env.js
+END

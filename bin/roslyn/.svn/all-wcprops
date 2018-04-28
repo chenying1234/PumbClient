@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn
+END
+Microsoft.CodeAnalysis.VisualBasic.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+END
+Microsoft.CSharp.Core.targets
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/Microsoft.CSharp.Core.targets
+END
+System.Reflection.Metadata.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/System.Reflection.Metadata.dll
+END
+Microsoft.VisualBasic.Core.targets
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/Microsoft.VisualBasic.Core.targets
+END
+VBCSCompiler.exe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/VBCSCompiler.exe
+END
+csc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/csc.exe
+END
+System.Collections.Immutable.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/System.Collections.Immutable.dll
+END
+vbc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/vbc.exe
+END
+Microsoft.CodeAnalysis.CSharp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+END
+Microsoft.CodeAnalysis.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/Microsoft.CodeAnalysis.dll
+END
+VBCSCompiler.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/VBCSCompiler.exe.config
+END
+Microsoft.Build.Tasks.CodeAnalysis.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Benz-Truck/!svn/ver/4674/branches/Pump/PumbClient/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+END

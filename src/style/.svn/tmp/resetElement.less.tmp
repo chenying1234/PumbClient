@@ -1,0 +1,140 @@
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: PingFang SC, SimSun, Microsoft YaHei, Helvetica, Hiragino Sans GB, Arial, sans-serif;
+  }
+  
+  html {
+    box-sizing: border-box;
+    line-height: normal;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  a:focus,
+  a:active {
+    outline: none;
+  }
+  
+  a,
+  a:focus,
+  a:hover {
+    cursor: pointer;
+    color: inherit;
+    text-decoration: none;
+  }
+  button,input,select,textarea {
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    outline: none;
+  }
+  dt,dd {
+    display: inline-block;
+  }
+  textarea,input {
+    resize: none;
+    outline: none;
+  }
+  textarea {
+    resize: none;
+    -webkit-appearance: none;
+  }
+  
+  ul,ol,li {
+    list-style: none;
+    padding: 0;
+    margin:0;
+  }
+  
+  .clearfix {
+    &:after {
+      visibility: hidden;
+      display: block;
+      font-size: 0;
+      content: " ";
+      clear: both;
+      height: 0;
+    }
+  }
+  p{
+    margin: 0;
+  }
+  
+  .newBtn{
+      border-radius: 0;
+      background: #00adef; 
+      border-color: #00adef;
+  }
+  .newBtn.el-button--primary:hover{
+    background: #00ade0; 
+    border-color: #00ade0
+  }
+<<<<<<< .mine
+//   .el-table .cell,{
+//     padding:0 5px;
+//     line-height: 1;
+//   }
+//   .el-button{
+//     //   border-radius: none;
+//       background: #00adef;
+//       border-radius: 0
+//   }
+//   .el-button--primary:focus, .el-button--primary:hover{
+//     background-color: #00adef;
+//   }
+//   .el-button:focus, .el-button:hover{
+//     color: #fff;
+//     background: #51a930;
+//     border-color: none
+//   }
+=======
+  .el-input__inner{
+    border-radius: 0;
+    height:45px;
+    font-size: 15px;
+  }
+  .el-button--primary:focus, .el-button--primary:hover{
+    background-color: #00adef;
+  }
+  .el-button:focus, .el-button:hover{
+    color: #fff;
+    background: #51a930;
+    border-color: none
+  }
+>>>>>>> .r4685
+  .el-message{
+    z-index: 9999 !important;
+    // top: 65px;
+    // @media only screen and (max-width: 1024px) {
+    //   top: 5px;
+    // }
+    top: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+    .el-message__content{
+      word-break: break-all;
+    }
+    &.el-message--error{
+      background-color: rgba(254, 240, 240,0.9);
+    }
+  }
+
+  
+   html {
+      height: 100%;
+    }
+  
+    body {
+      height: 100%;
+      overflow: hidden;
+      margin: 0;
+      color:#fff;
+    }
+  

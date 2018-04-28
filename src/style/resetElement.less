@@ -1,0 +1,166 @@
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: PingFang SC, SimSun, Microsoft YaHei, Helvetica, Hiragino Sans GB, Arial, sans-serif;
+  }
+  
+  html {
+    box-sizing: border-box;
+    line-height: normal;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  a:focus,
+  a:active {
+    outline: none;
+  }
+  
+  a,
+  a:focus,
+  a:hover {
+    cursor: pointer;
+    color: inherit;
+    text-decoration: none;
+
+  }
+  button,input,select,textarea {
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-tap-highlight-color:rgba(236,236,236,0.5)
+  }
+  dt,dd {
+    display: inline-block;
+  }
+  textarea,input {
+    resize: none;
+    outline: none;
+  }
+  textarea {
+    resize: none;
+    -webkit-appearance: none;
+  }
+  
+  ul,ol,li {
+    list-style: none;
+    padding: 0;
+    margin:0;
+  }
+  
+  .clearfix {
+    &:after {
+      visibility: hidden;
+      display: block;
+      font-size: 0;
+      content: " ";
+      clear: both;
+      height: 0;
+    }
+  }
+  p{
+    margin: 0;
+  }
+  .newBtn{
+      border-radius: 0;
+      background: #00adef; 
+      border-color: #00adef;
+  }
+  .newBtn.el-button--primary:hover{
+    background: #00ade0; 
+    border-color: #00ade0
+  }
+  .newBtnS{
+    background: #51a938; 
+    border-color: #51a938;
+  }
+  .newBtnS.el-button--primary:hover{
+    background: #51a900; 
+    border-color: #51a900;
+  }
+
+.el-message{
+    z-index: 9999 !important;
+    // top: 65px;
+    // @media only screen and (max-width: 1024px) {
+    //   top: 5px;
+    // }
+    top: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+    .el-message__content{
+      word-break: break-all;
+    }
+    &.el-message--error{
+      background-color: rgba(254, 240, 240,0.9);
+    }
+  }
+  .el-form-item__error{
+    position: inherit;
+  }
+  .el-input__inner{
+    border-radius: 0;
+  }
+  .input{
+    .el-input__inner{
+      border-radius: 0;
+      height:45px;
+    }
+  }
+  .btn{
+    border-radius: 0;
+  }
+  .el-form-item{
+    margin-bottom: 10px;
+  }
+  .resetdis.el-input.is-disabled .el-input__inner{
+    background-color: #fff;
+    border: 1px solid #dcdfe6;
+    opacity: 1;
+    background-image: url(../assets/uploader_icon.png);
+    background-position: 95% center;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    }
+    .el-form-item.is-required .el-form-item__label:before{
+      display: none;
+    }
+    .el-message-box--center .el-message-box__content{
+      padding:10px;
+    }
+    .el-message-box--center{
+      width:84%;
+      .scussIcon{
+        width:60px;
+      }
+      p{
+        color:#000000;
+        &.title{
+          font-weight: bold;
+        }
+      }
+    }
+  
+   html {
+      height: 100%;
+    }
+  
+    body {
+      height: 100%;
+      overflow: hidden;
+      margin: 0;
+      color:#fff;
+    }
+    .g-flexview { height: 100%; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; margin: 0 auto; max-width: 750px; min-width: 300px; }
+    .g-scrollview { width: 100%; height: 100%; -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; overflow-y: auto; overflow-x: hidden; -webkit-overflow-scrolling: touch; position: relative; margin-bottom: -1px; }
+    .g-scrollview:after { content: ''; display: block; width: 100%; height: 20px; }
+  

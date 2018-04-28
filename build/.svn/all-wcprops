@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/vue-loader.conf.js
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/logo.png
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/webpack.base.conf.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/utils.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Benz-Truck/!svn/ver/4679/branches/Pump/PumbClient/build/webpack.prod.conf.js
+END
